@@ -14,8 +14,8 @@ I'm a passionate software developer with a deep love for coding and technology. 
 - **🌱 Goals**: My current focus is on enhancing my skills in full-stack development and contributing to impactful open source projects. I'm also interested in exploring the fields of artificial intelligence and blockchain technology.
 
 ## Let's Connect!
-- **GitHub**: [Your GitHub Profile Link]
-- **LinkedIn**: [Your LinkedIn Profile Link]
-- **Twitter**: [Your Twitter Handle]
+
+- **LinkedIn**: https://www.linkedin.com/in/atulvmenon/
+- **X**: https://x.com/Atulmenon2
 
 I'm always open to new opportunities and collaborations. Feel free to reach out if you'd like to work together or just chat about tech!
