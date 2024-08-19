@@ -19,4 +19,4 @@ I'm a passionate software developer with a deep love for coding and technology. 
 - **X**: https://x.com/Atulmenon2
 
 I'm always open to new opportunities and collaborations. Feel free to reach out if you'd like to work together or just chat about tech!
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AtulVM&show_icons=true&theme=tokyonight&hide=stars,commits,prs,issues)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AtulVM&show_icons=true&theme=tokyonight&hide=stars,contribs,prs,issues)](https://github.com/anuraghazra/github-readme-stats)
