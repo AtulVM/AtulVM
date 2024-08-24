@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Software Development Enthusiast: I thrive on solving complex problems and building efficient, scalable applications. My expertise spans various programming languages and frameworks, and I'm always eager to learn new technologies.<br><br>📚 Lifelong Learner: The tech industry is constantly evolving, and so am I. I dedicate time to continuous learning through online course, tutorials, and tech related content. Staying updated with the latest trends and best practices is crucial to my growth as a developer.<br><br>
+💻 Software Development Enthusiast: I am an India based developer and I thrive on solving complex problems and building efficient, scalable applications. My expertise spans various programming languages and frameworks, and I'm always eager to learn new technologies.<br><br>📚 Lifelong Learner: The tech industry is constantly evolving, and so am I. I dedicate time to continuous learning through online course, tutorials, and tech related content. Staying updated with the latest trends and best practices is crucial to my growth as a developer.<br><br>
 
 
 ## 🌐 Socials:
