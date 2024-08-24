@@ -2,7 +2,7 @@
 💻 Software Development Enthusiast: I am an India based developer and I thrive on solving complex problems and building efficient, scalable applications. My expertise spans various programming languages and frameworks, and I'm always eager to learn new technologies.<br><br>📚 Lifelong Learner: The tech industry is constantly evolving, and so am I. I dedicate time to continuous learning through online course, tutorials, and tech related content. Staying updated with the latest trends and best practices is crucial to my growth as a developer.<br><br>
 
 
-## 🌐 Socials:
+## 🌐 My Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atulvmenon) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Atulmenon2) 
 
 # 💻 Tech Stack:
@@ -12,10 +12,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AtulVM&theme=midnight-purple&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AtulVM&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Todays Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repos
 ![](https://github-contributor-stats.vercel.app/api?username=AtulVM&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
